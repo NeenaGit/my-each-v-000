@@ -14,7 +14,6 @@ def my_each(array)
 end
 
 my_each(array) do |i|
-  if name.start_with?("T")
     puts i
   end
 end
